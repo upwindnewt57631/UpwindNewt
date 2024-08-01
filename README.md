@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Charlie Moore</h1>
 <h3 align="center">I'm Learning how to code!</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=upwindnewt57631&label=Profile%20views&color=0e75b6&style=flat" alt="upwindnewt57631" /> </p>
+
+- 🌱 I’m currently learning **the ins and outs of Java!**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>

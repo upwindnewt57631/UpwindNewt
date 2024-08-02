@@ -1,6 +1,6 @@
 # 👋 Hello, I'm [Your Name]
 
-![Profile Banner]([https://via.placeholder.com/1000x200)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD8ZiWyEapE3W-c2TO04kPeNIo7Wgs77zGsw&s)
+![Profile Banner]([https://via.placeholder.com/1000x200](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD8ZiWyEapE3W-c2TO04kPeNIo7Wgs77zGsw&s.png))
 
 ## About Me
 

@@ -21,6 +21,6 @@ Hi there! I'm Charles Moore, a passionate programer from Georgia! I love program
 
 Here are some of my recent projects:
 
-- [BlackJack](https://github.com/upwindnewt57631/UpwindNewt/blob/main/blackjack.py)): A brief description of the project.
-- [SnowFall Simulation](https://github.com/upwindnewt57631/UpwindNewt/blob/main/snowfall.py): A brief description of the project.
-- [Tetris](https://github.com/upwindnewt57631/UpwindNewt/blob/main/tetris.py): A brief description of the project.
+- [BlackJack](https://github.com/upwindnewt57631/UpwindNewt/blob/main/blackjack.py): A basic ASCII version of blackjack
+- [SnowFall Simulation](https://github.com/upwindnewt57631/UpwindNewt/blob/main/snowfall.py): A basic ASCII snowfall simulation
+- [Tetris](https://github.com/upwindnewt57631/UpwindNewt/blob/main/tetris.py): A colored ASCII version of Tetris

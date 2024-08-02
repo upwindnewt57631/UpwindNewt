@@ -1,6 +1,6 @@
 # 👋 Hello, I'm [Your Name]
 
-![Profile Banner](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD8ZiWyEapE3W-c2TO04kPeNIo7Wgs77zGsw&s.png](https://github.com/upwindnewt57631/UpwindNewt/blob/main/OIP.jpg?raw=true)
+![Profile Banner](https://github.com/upwindnewt57631/UpwindNewt/blob/main/OIP.jpg?raw=true)
 
 ## About Me
 
